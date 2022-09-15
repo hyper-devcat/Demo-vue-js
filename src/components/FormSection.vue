@@ -129,4 +129,9 @@ export default {
     display: none;
   }
 }
+@media only screen and (max-width: 1000px) {
+  #form .right-form {
+    padding-right: 15px;
+  }
+}
 </style>
